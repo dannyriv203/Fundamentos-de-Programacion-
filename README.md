@@ -17,7 +17,7 @@ chicas = 21
 ```
 ### Nombrando una variable
 Antes de empezar a nombrar una variable debemos tener en cuenta ciertos aspectos:
-1.	Nunca debemos iniciar la variable con un número o nuestra variable sera rechazada.
+1.	Nunca debemos iniciar la variable con un número o esta última será rechazada. 
 ```python
 1chica = 2
 ```
