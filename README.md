@@ -8,7 +8,13 @@ Es un lenguaje de programación de tipo interpretado por su forma de ejecución,
 
 ## ¿Qué es una variable?
 Es un espacio en la memoria en donde se guardan los datos que utiliza un programa, en donde cada una de las variables empleadas debe tener un nombre propio, con el cual se la podrá identificar, durante el desarrollo de un programa.
-
+Como, por ejemplo:
+```python
+vacunas = 29
+pelotas = 20
+niños = 15
+niñas = 21
+```
 ### Nombrando una variable
 
 ### Asignando valores a una variable
