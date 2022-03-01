@@ -46,11 +46,11 @@ dato5 = 3.14
 ### String
 Son aquellos datos que representan cadenas de caracteres que permiten procesar letras, números y símbolos, los cuales se escriben obligatoriamente en comillas dobles u simples siempre y cuando tanto el inicio como el final tengan estas mismas. 
 ```python
-Nombre = "Danny"
+nombre = "Danny"
 ```
 o también  
 ```python
-Nombre = 'Danny'
+nombre = 'Danny'
 ```
 Nota: Si queremos representar un número como un carácter debemos encerrarlo en comillas dobles o simples de lo contrario el programa asumirá que es un dato de tipo entero.
 ```python
