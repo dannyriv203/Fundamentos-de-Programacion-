@@ -1,5 +1,5 @@
 # Portafolio de Fundamentos-de-Programacion.
-En este portafolio observaremos todo nuestro conocimiento y aprendizaje acerca de lo adquirido en el transcurso del semestre en la materia de Programación.
+En este portafolio observaremos todo nuestro conocimiento y aprendizaje acerca de lo adquirido en el transcurso del primer semestre en la materia de Programación.
 
 ## ¿Qué es Python?
 
