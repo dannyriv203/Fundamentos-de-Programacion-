@@ -2,7 +2,7 @@
 En este portafolio observaremos todo nuestro conocimiento y aprendizaje acerca de lo adquirido en el transcurso del primer semestre en la materia de programación.
 
 ## ¿Qué es Python?
-[![python.png](https://i.postimg.cc/J42ycN14/python.png)](https://postimg.cc/4mpNXh7r)
+[![python.png](https://i.postimg.cc/brbzxtLd/python.png)](https://postimg.cc/YLrKkj5w)
 
 ## ¿Qué es una variable?
 
