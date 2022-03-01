@@ -13,7 +13,7 @@ Como, por ejemplo:
 vacunas = 29
 pelotas = 20
 niños = 15
-niñas = 21
+chicas = 21
 ```
 ### Nombrando una variable
 
