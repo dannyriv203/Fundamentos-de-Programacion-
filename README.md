@@ -28,6 +28,9 @@ range
 application
 ```
 3.	Para nombrar variables con más de una palabra debemos usar “_” .
+```python
+vacunas_aplicadas_en_marzo = 30
+```
 
 ### Asignando valores a una variable
 
