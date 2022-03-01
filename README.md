@@ -47,7 +47,7 @@ Son aquellos datos que representan cadenas de caracteres que permiten procesar l
 ```python
 Nombre = "Danny"
 ```
-o tambien 
+o también  
 ```python
 Nombre = 'Danny'
 ```
