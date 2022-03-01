@@ -16,6 +16,18 @@ niños = 15
 chicas = 21
 ```
 ### Nombrando una variable
+Antes de empezar a nombrar una variable debemos tener en cuenta ciertos aspectos:
+1.	Nunca debemos iniciar la variable con un número.
+```python
+1chica = 2
+```
+2.	No podemos usar palabras reservadas del lenguaje (en nuestro caso Python).
+```python
+sum
+range
+application
+```
+3.	Para nombrar variables con más de una palabra debemos usar “_” .
 
 ### Asignando valores a una variable
 
