@@ -27,9 +27,11 @@ Es un lenguaje de programación de tipo interpretado por su forma de ejecución,
 ## Tipos de datos en Python
 
 ### Integer
-Es aquel dato que únicamente almacena números enteros es decir netamente números positivos y negativos.
+Es aquel dato que únicamente almacena números enteros es decir netamente números positivos y negativos incluyendo el cero.
 ```python
 dato1 = 15
+dato2 = 0
+dato3 = -425
 ```
 
 ### Float
