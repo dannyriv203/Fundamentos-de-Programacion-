@@ -35,6 +35,8 @@ vacunas_aplicadas_en_marzo = 30
 ```python
 niños_inscritos_en_el_sistema = 20
 niñas_inscritos_en_el_sistema = 10
+profesores = 15
+adolescentes = 500
 ```
 ### Asignando valores a una variable
 
