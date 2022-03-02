@@ -39,7 +39,13 @@ profesores = 15
 adolescentes = 500
 ```
 ### Asignando valores a una variable
-
+Al colocar valores en las variables de Python lo que estamos haciendo realmente es introducir algún tipo de dato en aquel espacio de memoria que se creó con el nombre que nosotros mismos le hayamos asignado.
+Como se muestra a continuación:
+```python
+nombre = 'Danny'
+edad = 18
+curso = 'Sistemas1 Matutino'
+```
 ### Operadores básicos
 
 #### Suma
