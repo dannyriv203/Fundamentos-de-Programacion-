@@ -99,6 +99,11 @@ resta = 4500 - 2465
 print(resta)
 [output] 2035
 ```
+También podríamos haberla ejecutado mediante el print sin necesidad de crear una variable: 
+```python
+print("La resta es" , 4500 - 2465)
+[output] 2035
+```
 #### Multiplicación
 Aquel operador encargado de multiplicar lo propiamente dicho: números enteros, reales o una combinación de ambos. Se opera mediante un asterisco " * ".
 #### División
