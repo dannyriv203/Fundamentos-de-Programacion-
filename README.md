@@ -58,7 +58,7 @@ Como veremos en el siguiente ejemplo podremos realizar una suma común y corrien
 ```python
 suma = 2 + 5
 print(suma)
-[output] 7
+(output) 7
 ```
 e imprimirlo por consola. 
 ```python
