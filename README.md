@@ -115,7 +115,7 @@ print("La resta es" , 4500 - 2465)
 #### Multiplicación
 Aquel operador encargado de multiplicar lo propiamente dicho: números enteros, reales o una combinación de ambos. Se opera mediante un asterisco " * ".
 
-Al igual que como sucede con los otros operadores tenemos multiplicaciones simples:
+Al igual que como sucede con los otros operadores tenemos nuestra respectiva operación:
 ```python
 multiplicacion  = 10 * 10
 print(multiplicacion)
@@ -128,11 +128,12 @@ numero2 = int(input("Ingrese un numero"))
 numero3 = int(input("Ingrese un numero"))
 multiplicacion = numero1 * numero2 * numero3
 print('Los valores ingresados multiplicados hacen un total' , multiplicacion)
-```
+``` 
 #### División
 Operador encargado de realizar la división de números reales, enteros u la combinación de ambos. Se opera mediante “ / ".
 #### Módulo
 
+Todo esto depende de como queramos emplear a cada operador 
 ## Tipos de datos en Python
 
 ### Integer
