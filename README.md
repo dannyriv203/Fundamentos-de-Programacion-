@@ -237,6 +237,7 @@ y = int("10")
 ```
 Por último, la consola arrojara los datos convertidos al usuario según como los haya pedido.
 ### List
+Las listas son estructuras de datos que nos permiten almacenar distintos valores, al ser estructuras dinámicas están sujetas a mutaciones. Cabe destacar que a las listas se las definen entre corchetes “[]”.
 
 ### Tuple
 
