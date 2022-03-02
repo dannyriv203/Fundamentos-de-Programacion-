@@ -114,6 +114,14 @@ print("La resta es" , 4500 - 2465)
 ```
 #### Multiplicación
 Aquel operador encargado de multiplicar lo propiamente dicho: números enteros, reales o una combinación de ambos. Se opera mediante un asterisco " * ".
+
+Al igual que como sucede con los otros operadores tenemos multiplicaciones simples:
+```python
+multiplicacion  = 10 * 10
+print(multiplicacion)
+[output] 100
+```
+
 #### División
 Operador encargado de realizar la división de números reales, enteros u la combinación de ambos. Se opera mediante “ / ".
 #### Módulo
