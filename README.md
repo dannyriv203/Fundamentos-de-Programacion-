@@ -53,6 +53,7 @@ curso = 'Sistemas1 Matutino'
 #### Suma
 Aquel operador que como su nombre lo indica suma números enteros, reales o una combinación de ambos. Se opera mediante el signo más  
 “ + ”.
+
 Como veremos en el siguiente ejemplo podremos realizar una suma comun y corriente creando una variable llamada suma
 ```python
 suma = 2 + 5
