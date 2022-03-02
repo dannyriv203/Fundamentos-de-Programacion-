@@ -92,6 +92,12 @@ Procesos de entrada, procesamiento y salida de datos los cuales sucederán de la
 
 #### Resta
 Aquel operador que se encarga de sustraer números enteros, reales o una combinación de ambos. Se opera mediante el signo menos “ - ”.
+A continuación, observamos una simple resta creada mediante una variable:
+```python
+resta = 4500 - 2465
+print(resta)
+[output] 2035
+```
 #### Multiplicación
 Aquel operador encargado de multiplicar lo propiamente dicho: números enteros, reales o una combinación de ambos. Se opera mediante un asterisco " * ".
 #### División
