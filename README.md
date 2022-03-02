@@ -38,6 +38,7 @@ niñas_inscritos_en_el_sistema = 10
 profesores = 15
 adolescentes = 500
 ```
+Cuando estamos nombrando una variable a su vez la estamos creando es decir estamos solicitando a python aquel espacio de memoria que nos servirá para el desarrollo del programa en el futuro.  
 ### Asignando valores a una variable
 Al colocar valores en las variables de Python lo que estamos haciendo realmente es introducir algún tipo de dato en aquel espacio de memoria que se creó con el nombre que nosotros mismos le hayamos asignado.
 Como se muestra a continuación:
