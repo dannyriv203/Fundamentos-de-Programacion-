@@ -221,7 +221,9 @@ dato6 = '890'
 ```
 ### Casting en Python
 Cuando hablamos de casting en Python nos referimos a convertir un tipo de dato a otro.
+
 Por ejemplo:
+
 Tenemos a las variables "X" y "Y" con datos de tipo flotante(float) y carácter(str)
 ```python
 x = 8.5
