@@ -87,6 +87,8 @@ Y finalmente donde acurre la salida o la solución del programa, el cual nos imp
 print("Existen",suma, "carros en la concecionaria")
 [output] Existen 53 carros en la concesionaria
 ```
+Procesos de entrada, procesamiento y salida de datos los cuales sucederán de la misma manera con los demás operadores en programas simples u complejos dependiendo del caso.
+
 #### Resta
 Aquel operador que se encarga de sustraer números enteros, reales o una combinación de ambos. Se opera mediante el signo menos “ - ”.
 #### Multiplicación
