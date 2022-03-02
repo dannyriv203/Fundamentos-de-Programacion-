@@ -53,6 +53,29 @@ curso = 'Sistemas1 Matutino'
 #### Suma
 Aquel operador que como su nombre lo indica suma números enteros, reales o una combinación de ambos. Se opera mediante el signo más  
 “ + ”.
+Como veremos en el siguiente ejemplo podremos sumar variables con valores numéricos asignados:
+```python
+carros_azules = 23
+carros_rojos = 12
+carros_negros = 15
+suma = carros_azules + carros_negros + carros_negros
+print("Existen",suma, "carros en la concesionaria")
+```
+En donde se produce una entrada o ingreso de datos:
+```python
+carros_azules = 23
+carros_rojos = 12
+carros_negros = 15
+```
+Otro donde ocurre el procesamiento del programa
+```python
+suma = carros_azules + carros_negros + carros_negros
+```
+Y finalmente donde acurre la salida o la solución del programa, el cual nos imprimirá la consola.
+```python
+print("Existen",suma, "carros en la concecionaria")
+[output] Existen 53 carros en la concesionaria
+```
 #### Resta
 Aquel operador que se encarga de sustraer números enteros, reales o una combinación de ambos. Se opera mediante el signo menos “ - ”.
 #### Multiplicación
