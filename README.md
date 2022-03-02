@@ -65,6 +65,14 @@ e imprimirlo por consola.
 print(suma)
 [output] 7
 ```
+A su vez podemos solicitar valores al usuario:
+```python
+numero1 = int(input("Ingrese un numero"))
+numero2 = int(input("Ingrese un numero"))
+numero3 = int(input("Ingrese un numero"))
+suma = numero1 + numero2 + numero3
+print('Los valores ingresados suman un total de' ,suma)
+```
 Así como también podremos sumar variables con valores asignados en programas un poco más grandes u complejos:
 ```python
 carros_azules = 23
