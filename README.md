@@ -158,7 +158,7 @@ Pero tenemos que tener en cuenta que la división posee ciertas restricciones ar
 
 Por lo cual al procesar estos valores en cero nos arrojarían errores en la consola.
 
-Para la cual si se desea hacer un programa completo en el que nos indique que sucede con los valores divididos a cero tendríamos que crear uno similar al ejemplo de a continuación:
+Para la cual si se desea hacer un programa completo en el que se le indique al usuario que sucede con los valores divididos a cero tendríamos que crear uno similar al ejemplo de a continuación:
 ```python
 a = int(input("Ingrese el dividendo"))
 b = int(input("Ingrese un divisor"))
