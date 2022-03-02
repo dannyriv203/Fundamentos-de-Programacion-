@@ -137,6 +137,10 @@ numero3 = int(input("Ingrese un numero"))
 multiplicacion = numero1 * numero2 * numero3
 print('Los valores ingresados multiplicados hacen un total' , multiplicacion)
 ``` 
+Y el programa procedera a aplicar los mismo metodos de solucion de los anteriores operadores con la diferencia de que ahora los multiplicara:
+```python
+multiplicacion = numero1 * numero2 * numero3
+``` 
 #### División
 Operador encargado de realizar la división de números reales, enteros u la combinación de ambos. Se opera mediante “ / ".
 #### Módulo
