@@ -51,13 +51,13 @@ curso = 'Sistemas1 Matutino'
 ### Operadores básicos
 
 #### Suma
-
+Aquel operador que como su nombre lo indica suma números enteros, reales o una combinación de ambos. Se opera mediante el signó más “ + ”.
 #### Resta
-
+Aquel operador que se encarga de sustraer números enteros, reales o una combinación de ambos. Se opera mediante el signo menos “ - ”.
 #### Multiplicación
-
+Aquel operador encargado de multiplicar lo propiamente dicho: números enteros, reales o una combinación de ambos. Se opera mediante un asterisco " * ".
 #### División
-
+Operador encargado de realizar la división de números reales, enteros u la combinación de ambos. Se opera mediante “ / ".
 #### Módulo
 
 ## Tipos de datos en Python
