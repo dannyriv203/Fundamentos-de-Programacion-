@@ -121,7 +121,14 @@ multiplicacion  = 10 * 10
 print(multiplicacion)
 [output] 100
 ```
-
+En donde se seguirá el mismo patrón de programa para ejecutar de las otras operaciones con la diferencia del signo que deberá ser cambiado, además de cambiar el nombre de las variables en caso de ser solicitadas:
+```python
+numero1 = int(input("Ingrese un numero"))
+numero2 = int(input("Ingrese un numero"))
+numero3 = int(input("Ingrese un numero"))
+multiplicacion = numero1 * numero2 * numero3
+print('Los valores ingresados multiplicados hacen un total' , multiplicacion)
+```
 #### División
 Operador encargado de realizar la división de números reales, enteros u la combinación de ambos. Se opera mediante “ / ".
 #### Módulo
