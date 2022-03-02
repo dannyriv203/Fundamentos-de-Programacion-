@@ -31,7 +31,11 @@ application
 ```python
 vacunas_aplicadas_en_marzo = 30
 ```
-
+4. Una vez comprendidas todas estas reglas podemos crear las variables que necesitásemos para nuestro programa de forma correcta.
+```python
+niños_inscritos_en_el_sistema = 20
+niñas_inscritos_en_el_sistema = 10
+```
 ### Asignando valores a una variable
 
 ### Operadores básicos
