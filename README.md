@@ -169,25 +169,25 @@ elif a == 0 and b==0:
 else:
     print(a/b) 
 ```
-Como podemos verificar en este programa tenemos las 2 restricciones matematicas de la division en donde:
+Como podemos verificar en este programa tenemos las 2 restricciones matemáticas de la división en donde:
 1. Ningun numero puede ser dividido a cero: 
 ```python
 if a > 0 and b == 0:
     print("No definido")
 ```
-2. La division cero a cero es indeterminada:
+2. La división cero a cero es indeterminada:
 ```python
-elif a == 0 and b==0:
+elif a == 0 and b== 0:
     print("Inderteminado")
 ```
-3. Y por ultimo afuera de estas restricciones tenemos la realizacion de una division normal:
+3. Y por último afuera de estas restricciones tenemos la realización de una división normal la cual se ejecutará si no se cumplen ninguna de las 2 restricciones anteriores:
 ```python
 else:
     print(a/b) 
 ```
 #### Módulo
 
-Todo esto depende de como queramos emplear a cada operador 
+
 ## Tipos de datos en Python
 
 ### Integer
