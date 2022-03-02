@@ -17,6 +17,7 @@ chicas = 21
 ```
 ### Nombrando una variable
 Cuando estamos nombrando una variable a su vez la estamos creando es decir estamos solicitando a python aquel espacio de memoria que nos servirá para el desarrollo del programa en el futuro.
+
 Sin embargo antes de empezar a nombrar una variable debemos tener en cuenta ciertos aspectos:
 1.	Nunca debemos iniciar la variable con un número o esta última será rechazada. 
 ```python
