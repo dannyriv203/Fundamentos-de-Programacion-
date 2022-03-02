@@ -53,7 +53,18 @@ curso = 'Sistemas1 Matutino'
 #### Suma
 Aquel operador que como su nombre lo indica suma números enteros, reales o una combinación de ambos. Se opera mediante el signo más  
 “ + ”.
-Como veremos en el siguiente ejemplo podremos sumar variables con valores numéricos asignados:
+Como veremos en el siguiente ejemplo podremos realizar una suma comun y corriente creando una variable llamada suma
+```python
+suma = 2 + 5
+print(suma)
+[output] 7
+```
+e imprimirlo por consola 
+```python
+print(suma)
+[output] 7
+```
+Así como también podremos sumar variables con valores asignados en programas un poco más grandes u complejos:
 ```python
 carros_azules = 23
 carros_rojos = 12
