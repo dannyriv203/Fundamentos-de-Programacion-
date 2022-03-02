@@ -51,7 +51,7 @@ curso = 'Sistemas1 Matutino'
 ### Operadores básicos
 
 #### Suma
-Aquel operador que como su nombre lo indica suma números enteros, reales o una combinación de ambos. Se opera mediante el signó más “ + ”.
+Aquel operador que como su nombre lo indica suma números enteros, reales o una combinación de ambos. Se opera mediante el signó más  “ + ”.
 #### Resta
 Aquel operador que se encarga de sustraer números enteros, reales o una combinación de ambos. Se opera mediante el signo menos “ - ”.
 #### Multiplicación
