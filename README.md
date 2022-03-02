@@ -220,7 +220,20 @@ Nota: Si queremos representar un número como un carácter debemos encerrarlo en
 dato6 = '890'
 ```
 ### Casting en Python
-
+Cuando hablamos de casting en Python nos referimos a convertir un tipo de dato a otro.
+Por ejemplo:
+Tenemos a las variables "X" y "Y" con datos de tipo flotante(float) y carácter(str)
+```python
+x = 8.5
+y = "10"
+```
+Si queremos llevar estas variables a un tipo entero(int) por así decirlo, pues tenemos que reescribirlas y escribir el tipo de dato al que queremos transformarlas a lado de estas últimas.
+Como se muestra a continuación:
+```python
+x = int(8.5)
+y = int("10")
+```
+Por último, la consola arrojara los datos convertidos al usuario según como los haya pedido.
 ### List
 
 ### Tuple
