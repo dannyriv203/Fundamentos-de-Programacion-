@@ -112,6 +112,14 @@ También podríamos haberla ejecutado mediante el print sin necesidad de crear u
 print("La resta es" , 4500 - 2465)
 [output] La resta es 2035
 ```
+En donde el programa leerá la orden y la ejecutará
+```python
+print("La resta es" , 4500 - 2465)
+```
+Y la imprimirá por consola
+```python
+[output] La resta es 2035
+```
 #### Multiplicación
 Aquel operador encargado de multiplicar lo propiamente dicho: números enteros, reales o una combinación de ambos. Se opera mediante un asterisco " * ".
 
