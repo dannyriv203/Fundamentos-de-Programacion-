@@ -143,6 +143,48 @@ multiplicacion = numero1 * numero2 * numero3
 ``` 
 #### División
 Operador encargado de realizar la división de números reales, enteros u la combinación de ambos. Se opera mediante “ / ".
+
+A continuación, tenemos un pequeño programa básico que nos realizara división normal de cualquier numero que ingresemos en pantalla:
+```python
+division = int(6/3)
+print("La division es", division)
+[output] 2
+```
+Colocaremos alado del igual el tipo de dato en el que queremos que nos arroje el resultado ya sea entero(int) o decimal(float)
+```python
+division = int(6/3)
+```
+Pero tenemos que tener en cuenta que la división posee ciertas restricciones aritméticas ya que la división a cero no está definida y el cero/cero es indeterminado.
+
+Por lo cual al procesar estos valores en cero nos arrojarían errores en la consola.
+
+Para la cual si se desea hacer un programa completo en el que nos indique que sucede con los valores divididos a cero tendríamos que crear uno similar al ejemplo de a continuación:
+```python
+a = int(input("Ingrese el dividendo"))
+b = int(input("Ingrese un divisor"))
+if a > 0 and b == 0:
+    print("No definido")
+elif a == 0 and b==0:
+    print("Inderteminado") 
+else:
+    print(a/b) 
+```
+Como podemos verificar en este programa tenemos las 2 restricciones matematicas de la division en donde:
+1. Ningun numero puede ser dividido a cero: 
+```python
+if a > 0 and b == 0:
+    print("No definido")
+```
+2. La division cero a cero es indeterminada:
+```python
+elif a == 0 and b==0:
+    print("Inderteminado")
+```
+3. Y por ultimo afuera de estas restricciones tenemos la realizacion de una division normal:
+```python
+else:
+    print(a/b) 
+```
 #### Módulo
 
 Todo esto depende de como queramos emplear a cada operador 
