@@ -268,7 +268,7 @@ Aquella sentencia se usa para tomar decisiones, este evaluá básicamente una op
 Como se muestra a continuación en el siguiente ejemplo:
 ```python
 #Primeramente le pediremos al usuario que ingrese un valor.
-num=int(input("ingrese numero:"))
+num = int(input("ingrese numero:"))
 #Luego gracias a las sentencias if/else el programa determinara si aquel numero ingreasdo es par o impar. 
 if (num%2==0):
     print("El numero es par",)
