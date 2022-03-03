@@ -280,6 +280,19 @@ else:
 ### Ciclo For
 El bucle for se utiliza para recorrer los elementos de un objeto iterable y ejecutar un bloque de código. En cada paso de la iteración se tiene en cuenta a un único elemento del objeto iterable, sobre el cuál se pueden aplicar una serie de operaciones.
 
+Como se demuestra en el siguiente ejemplo:
+
+```python
+#Ejercicio en el cual nos piden calcular la suma y la media aritmetica de N numeros reales ademas de solicitar el valor de n al usuario en cada uno de los N números reales.
+n = int(input("Ingrese los números que desee: "))
+suma= 0
+for i in range(n):
+    nota =int(input('Ingrese el número' + str (i+1) +  ':'))
+    suma += nota
+    
+promedio = suma/n 
+print("promedio:", promedio)
+```
 ### Ciclo While
 
 ### Break
