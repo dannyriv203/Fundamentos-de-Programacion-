@@ -186,8 +186,27 @@ else:
     print(a/b) 
 ```
 #### Módulo
+El módulo no hace otra cosa que devolver el resto de la división entre los dos operandos, su signo de operación es el "%".
 
+Como en el primer ejemplo que tenemos en donde los números los definimos por variables:
+```python
+#Como primer paso asignamos los valores
+num1=10
+num2=7
+#Colocamos su respectivo simbolo operativo
+modulo=num1%num2
+#La consola lo imprimira
+print(num1,'%',num2,'=',modulo)
+```
+Así como también observemos en este segundo ejemplo como a diferencia del primero ahora solicitamos valores al usuario.
 
+Sin embargo se ejecutara de la misma manera dependiendo de los valores ingresados.
+```python
+num1=int(input("ingrese un numero:"))
+num2=int(input("ingrese un numero:"))
+modulo=num1%num2
+print(num1,'%',num2,'=',modulo)
+```
 ## Tipos de datos en Python
 
 ### Integer
