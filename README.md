@@ -261,7 +261,7 @@ print(diccionario["amarillo"])
 #Como punto final tenemos que este elemento se terminara imprimiendo dependiendo de la orden que el usuario le proporcione.
 ```
 ## Tomando decisiones
-
+Cuando hablamos de la toma de decisiones en programación nos referimos a los caminos que tendrá que seguir el propio programa para llegar al objetivo final impuesto por el programador quien lo comanda, esto ultimo lo conseguirá mediante ciclos y sentencias como veremos a continuación:
 ### Sentencia if
 
 ### Ciclo For
