@@ -238,13 +238,18 @@ y = int("10")
 Por último, la consola arrojara los datos convertidos al usuario según como los haya pedido.
 ### List
 Las listas son estructuras de datos que nos permiten almacenar distintos valores y elementos, al ser estructuras dinámicas están sujetas a mutaciones. Cabe destacar que a las listas se las definen entre corchetes “[]”.
-Como veremos en el siguiente ejemplo 
+
+Como veremos en el siguiente ejemplo:
 ```python
 lista1 = ["Maria", "Lucia", "Antonio", "Jose" ]
 print(lista1)
 ```
 ### Tuple
-
+Una tupla es un conjunto ordenado e inmutable de elementos del mismo o diferente tipo, es similar a una lista en términos de indexación, objetos anidados y repetición, pero una tupla es inmutable a diferencia de las listas que son mutables. Las cuales se representan escribiendo los elementos entre paréntesis y separados por comas.
+```python
+(1,2,4,5,6,7,8,9)
+("Hola", "soy", "Danny")
+```
 ### Dictionary
 
 ## Tomando decisiones
