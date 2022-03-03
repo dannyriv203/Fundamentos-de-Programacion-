@@ -278,6 +278,7 @@ else:
 #Y por ultimo lo imprimira en consola.
 ```
 ### Ciclo For
+El bucle for se utiliza para recorrer los elementos de un objeto iterable y ejecutar un bloque de código. En cada paso de la iteración se tiene en cuenta a un único elemento del objeto iterable, sobre el cuál se pueden aplicar una serie de operaciones.
 
 ### Ciclo While
 
