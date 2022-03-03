@@ -319,3 +319,8 @@ for i in range (10):
         break
 ```
 ### Continue
+El uso de continue al igual que el break, nos permite modificar el comportamiento de  los bucles while y for. Concretamente, continue se salta todo el código restante en la iteración actual y vuelve al principio en el caso de que aún queden iteraciones por completar.
+La diferencia entre el break y continue es que el continue no rompe el bucle, si no que pasa a la siguiente iteración saltando el código pendiente.
+
+Como observaremos en el siguiente ejemplo:
+
