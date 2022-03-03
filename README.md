@@ -254,11 +254,11 @@ Una tupla es un conjunto ordenado e inmutable de elementos del mismo o diferente
 Un Diccionario es una estructura y un tipo de datos con características especiales que nos permite almacenar cualquier tipo de valor como enteros, cadenas, listas e incluso otras funciones. Estos diccionarios nos permiten además identificar cada elemento por una clave (Key).
 ```python
 #Primeramente tenemos que definir hacia donde ira orientado nuestro diccionario 
-#Una vez hecho esto colocamos nuestra ideas sobre el mismo en donde el listado de valores se encierran entre llaves y las parejas de clave y valor se separan con comas, y la clave y el valor se separan con dos puntos.
+#Una vez hecho esto colocamos nuestra ideas sobre el mismo en donde el listado de valores se encierran entre llaves y las parejas de clave y valor se separan con comas,por lo cual la clave y el valor se separan con dos puntos.
 diccionario = {"azul":"blue", "amarillo":"yelow", "rojo":"red"}
 #Colocamos el elemento del diccionario al que deseamos acceder mediante la clave de este ultimo. 
 print(diccionario["amarillo"])
-#Por ultimo se terminara imprimiendo dependiendo de la orden del elemento que el usuario le proporcione.
+#Como punto final tenemos que este elemento se terminara imprimiendo dependiendo de la orden que el usuario le proporcione.
 ```
 ## Tomando decisiones
 
