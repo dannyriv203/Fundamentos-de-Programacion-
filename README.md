@@ -93,7 +93,7 @@ suma = carros_azules + carros_negros + carros_negros
 ```
 Y finalmente donde acurre la salida o la solución del programa, el cual nos imprimirá la consola.
 ```python
-print("Existen",suma, "carros en la concecionaria")
+print("Existen",suma, "carros en la concesionaria")
 [output] Existen 53 carros en la concesionaria
 ```
 Procesos de entrada, procesamiento y salida de datos los cuales sucederán de la misma manera con los demás operadores en programas simples u complejos dependiendo del caso.
