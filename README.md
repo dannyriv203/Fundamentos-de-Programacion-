@@ -305,5 +305,15 @@ while num<10 or num >20 or num%2!=0:
 print("se fue")
 ```
 ### Break
-
+La sentencia break nos permite alterar el comportamiento de los bucles while y for. Concretamente, permite terminar con la ejecución del bucle, esto significa que una vez se encuentra la palabra break, el bucle se habrá terminado.
+Como se muestra a continuación:
+En donde el ciclo for se ve interrumpido gracias al break.
+```python
+j=0
+for i in range (10):
+    j+=2
+    print ("i;",i,"j:",j)
+    if j==10:
+        break
+```
 ### Continue
