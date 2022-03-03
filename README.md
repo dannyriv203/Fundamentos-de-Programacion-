@@ -263,7 +263,20 @@ print(diccionario["amarillo"])
 ## Tomando decisiones
 Cuando hablamos de la toma de decisiones en programación nos referimos a los caminos que tendrá que seguir el propio programa para llegar al objetivo final impuesto por el programador quien lo comanda, esto ultimo lo conseguirá mediante ciclos y sentencias como veremos a continuación:
 ### Sentencia if
+Aquella sentencia se usa para tomar decisiones, este evaluá básicamente una operación lógica, es decir una expresión que de como resultado True o False, y ejecuta la pieza de código siguiente siempre y cuando el resultado sea verdadero.
 
+Como se muestra a continuación en el siguiente ejemplo:
+```python
+#Primeramente le pediremos al usuario que ingrese un valor.
+num=int(input("ingrese numero:"))
+#Luego gracias a las sentencias if/else el programa determinara si aquel numero ingreasdo es par o impar. 
+if (num%2==0):
+    print("El numero es par",)
+    print(num,"es par")
+else:
+    print("El numero es impar") 
+#Y por ultimo lo imprimira en consola.
+```
 ### Ciclo For
 
 ### Ciclo While
