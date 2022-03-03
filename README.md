@@ -323,4 +323,13 @@ El uso de continue al igual que el break, nos permite modificar el comportamient
 La diferencia entre el break y continue es que el continue no rompe el bucle, si no que pasa a la siguiente iteración saltando el código pendiente.
 
 Como observaremos en el siguiente ejemplo:
-
+```python
+contador=0
+for i in range (10):
+    for j in range (10):
+        contador +=1
+        print ("i:",i,"j:",j)
+        if contador >50:
+            continue
+print ("contador:",contador)
+```
