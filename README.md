@@ -294,7 +294,16 @@ promedio = suma/n
 print("promedio:", promedio)
 ```
 ### Ciclo While
+La sentencia o bucle while en Python es una sentencia de control de flujo que se utiliza para ejecutar un bloque de instrucciones de forma continuada mientras se cumpla una condición determinada.
+```python
+#En este ejemplo dependiendo del numero que el usuario ingrese este ultimo sera ejecutado o a su vez podra ser descontinuado o rechazado
+num=11
 
+while num<10 or num >20 or num%2!=0:
+    num=int(input("ingrese numero:"))
+
+print("se fue")
+```
 ### Break
 
 ### Continue
