@@ -245,7 +245,7 @@ lista1 = ["Maria", "Lucia", "Antonio", "Jose" ]
 print(lista1)
 ```
 ### Tuple
-Una tupla es un conjunto ordenado e inmutable de elementos del mismo o diferente tipo, es similar a una lista en términos de indexación, objetos anidados y repetición, pero una tupla es inmutable a diferencia de las listas que son mutables. Las cuales se representan escribiendo los elementos entre paréntesis y separados por comas.
+Una tupla es un conjunto ordenado e inmutable de elementos del mismo o diferente tipo, es similar a una lista en términos de indexación, objetos anidados y repetición. Las cuales se representan escribiendo los elementos entre paréntesis y separados por comas.
 ```python
 (1,2,4,5,6,7,8,9)
 ("Hola", "soy", "Danny")
